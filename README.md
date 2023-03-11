@@ -1,6 +1,6 @@
 # Climate Plots 
 
-I am using this repository to learn more about ggplot. The starting line was the videos from the channel @Riffomonas(https://www.youtube.com/@Riffomonas) in which he demonstrates the construction of these graphs
+I am using this repository to learn more about ggplot. The starting line was the videos from the channel [@Riffomonas](https://www.youtube.com/@Riffomonas) in which he demonstrates the construction of these graphs
 
 Some of the plots that were made:
 
